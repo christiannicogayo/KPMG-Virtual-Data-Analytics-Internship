@@ -1,2 +1,2 @@
 # KPMG-Virtual-Data-Analytics-Internship
-Repository for KMPG Virtual Data Analytics Internship tasks
+Repository documenting my experience on the KMPG Virtual Data Analytics Internship
